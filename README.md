@@ -18,6 +18,3 @@ virtual environment,
 
 4)login: ssh grader@18.194.117.48 -p 2200 -i ~/.ssh/authorized_key
 
-
-resources: https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
-https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps142
